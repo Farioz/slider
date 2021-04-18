@@ -1,0 +1,7 @@
+$dark-color: #0b0b1c;
+$red-color: rgb(94, 16, 16);
+$size: 80px;
+
+@media (max-width: 768px) {
+    $size: 50px
+}
